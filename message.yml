@@ -1,0 +1,45 @@
+# Without prefix
+no-permission: "§c§lYou don't have permission to do this!"
+
+message-prefix: "§c[筑梦PVP]§r"
+
+unknown-command: "未知指令！使用/dmpvp help 查看帮助"
+
+show-my-bal: "您当前的存款："
+
+winner-message-1: "您刚刚战胜了玩家 "
+winner-message-2: "，获得经验点数："
+loser-message-1: "您被玩家 "
+loser-message-2: " 击败，经验点数减少："
+
+PVP-broadcast-1: "玩家 "
+PVP-broadcast-2: "刚刚战胜了："
+
+no-swap-points-win: "对方经验点数不足，您仅得到经验点数："
+no-swap-points-lose: "您的经验点数不足，剩余点数已全部被对方拿走。"
+
+player-not-found: "找不到该玩家！"
+
+look-others-exp-1: "玩家 "
+look-others-exp-2: "的经验点数："
+
+unknown-admin-command: "未知的管理指令！ 使用/dmpadmin help查看帮助"
+admin-add-usage: ""
+admin-set-usage: ""
+
+reload-success: "重新加载成功。"
+
+
+help-look: "使用/dmpvp look <玩家名> 来查看玩家的经验点数。"
+
+help:
+  - "========筑梦PVP使用帮助========"
+  - "查看您当前的经验点数： /dmpvp me"
+  - "查看其他玩家的经验点数： /dmpvp look <玩家名>"
+  - "可以使用/dmp 代替/dmpvp"
+  
+admin-helps:
+  - "========筑梦PVP管理指令========"
+  - "重新加载配置文件： /dmpadmin reload"
+  - "给玩家增加经验点： /dmpadmin add <玩家名> <数量>"
+  - "修改玩家的经验点： /dmpadmin set <玩家名> <数量>"

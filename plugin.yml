@@ -1,0 +1,13 @@
+name: DreamineBank
+main: cn.dreamine.dev.dreamineBank.DreamineBank
+version: 1.0.0-SNAPSHOT
+commands:
+  dbank:
+    description: Show information of DreaminePoints.
+    aliases: [db]
+    permission: DreamineBank.user
+    usage: Unknown Command. Use /dbank help to see usage.
+  dbaa:
+    description: Show information of DreamineBank.
+    permission: DreamineBank.admin
+    usage: Unknown Command. Use /dbaa help to see usage.

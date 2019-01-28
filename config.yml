@@ -1,0 +1,6 @@
+#SQL Settings
+host: localhost
+port: 3306
+database: dreaminebank
+username: root
+password: '233233233'

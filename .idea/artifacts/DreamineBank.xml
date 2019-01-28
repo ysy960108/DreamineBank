@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DreamineBank">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="DreamineBank.jar">
+      <element id="module-output" name="DreamineBank" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/message.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>
